@@ -13,4 +13,4 @@ this is me coming in a writing some more stuuf to the README file while I am in 
 8
 9
 
-lets see if this works 
+added from git hub while another branch was open on computer 
